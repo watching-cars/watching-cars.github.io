@@ -1,0 +1,49 @@
+body{ 
+background-image: url(images/logo4.jpg);
+background-size: 60% 30%;
+ }
+ h1{
+
+ 	text-align: center;
+ 	color:   yellow;
+ 	font-size: 3rem;
+;
+ }
+ h3{	text-align: center;
+ 	color: blue;
+
+}
+ li{
+ 	text-align: left;
+ 	color: #ffffff
+;
+
+ }
+#x{
+	list-style-type: none;
+	background-color: rgba(152, 217, 231, 0.712);
+	padding: 5px;
+	margin: 5px;
+}
+#x li{
+	display: inline-block;
+	padding: 14px 20px;
+}
+#x li a  {
+	color: rgb(7, 33, 148);
+font-size: 2rem;
+text-decoration: none;
+
+}
+#x li:hover{
+	background-color: #666
+
+}
+::selection{
+background-color:black;
+color : hotpink;
+}
+#m4m4{
+font-size: 30px;
+
+}
