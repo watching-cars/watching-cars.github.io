@@ -1,0 +1,19 @@
+body{background: linear-gradient(gray,black);
+height: 100vh;
+width: 100vh;
+font-family: sans-serif;
+color: white;}
+.a{height: 400px;
+width: 600px;
+border-radius: 20px;
+font-weight: 700;
+font-size: 16px;
+background-color: wheat;
+}
+.b{background-color: gray;
+height: 50px;
+padding-right: 30%;
+font-family: sans-serif;
+font-weight: 700;
+font-size: large;
+color: white;}
