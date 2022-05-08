@@ -1,6 +1,6 @@
-body{background-color:white;}
+body{background-color:black;}
 .a{font-weight: 700;
-    color:black;
+    color:white;
     text-decoration: none;
 padding: 20px 20px ;}    
 div{
@@ -8,3 +8,11 @@ div{
     border-radius: 20px;
     color: black;}
 img{width: 300px;}
+.sty{
+    width: 70%;
+    height: 80%;
+    padding: 50px  15%;
+    border-radius: 20px;
+    color: red;
+    background-color:white;
+}
