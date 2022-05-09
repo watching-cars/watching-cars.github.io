@@ -41,7 +41,7 @@ body{
   width: 280px;
   border-color: #2ecc71;
 }
-.box input[type="submit"]{
+.box a{
   border: 0;
   background: none;
   margin: 20px auto;
@@ -53,7 +53,8 @@ body{
   border-radius: 24px;
   transition: 0.25s;
   cursor:pointer;
+  text-decoration: none;
 }
-.box input[type="submit"]:hover{
+.box a:hover{
   background: #2ecc71;
 }
